@@ -1,0 +1,31 @@
+{
+  "name": "iristravel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@ztrehagem/vue-accordion": "^0.3.0",
+    "core-js": "^3.6.5",
+    "moment": "^2.29.1",
+    "tailwindcss": "^1.1.2",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vue2-daterange-picker": "^0.6.6"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@ianaya89/vue-cli-plugin-tailwind": "~1.1.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

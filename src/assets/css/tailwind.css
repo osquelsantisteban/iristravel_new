@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dateRangePicker {
+    color: var(--blue);
+    width: 33%;
+}
+.dateRangePicker .form-control{
+    /* font-size: 1.25rem; */
+    padding: 0.5rem 25px !important;
+    text-align: left;
+    background: transparent !important;
+    border-radius: 6rem;    
+}
